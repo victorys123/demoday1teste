@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: black;
+    height: 20%;
+}
+
+section{
+    background-color: blue;
+    height: 40%;
+}
+
+footer{
+    background-color: black;
+    height: 20%;
+}
+
+.gato1{
+    height: 100px;
+    width: 100px;
+}
+
+.gato2{
+    height: 250px;
+    width: 250px;
+}
+
+.gato3{
+    height: 250px;
+    width: 250px;
+}
+
+.gato4{
+    height: 250px;
+    width: 250px;
+}
+
+.gato5{
+    height: 250px;
+    width: 250px;
+}
+
+.gato6{
+    height: 100px;
+    width: 100px;
+}
